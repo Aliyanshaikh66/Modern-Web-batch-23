@@ -1,0 +1,29 @@
+
+/* Type Selector  */
+/* h1, p, a{
+    font-family: sans-serif;
+    color: red;
+} */
+ /* p{
+    font-family: sans-serif;
+    color: red;
+} */
+/* p{
+    color: blueviolet;
+}
+b{
+    color: b;
+} */
+/* .parent{
+    background-color: yellowgreen;
+} */
+/* p>.child{
+    background-color: burlywood;
+} */
+
+/* #heading{
+    color: violet;
+} */
+#bold{
+    color: gray;
+}
