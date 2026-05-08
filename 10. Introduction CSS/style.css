@@ -24,6 +24,67 @@ b{
 /* #heading{
     color: violet;
 } */
-#bold{
+/* #bold{
     color: gray;
-}
+} */
+
+/* universal selector  */
+/* *{
+    background-color: green;
+} */
+
+/* type Selector */
+
+/* h1,h3{
+    background-color: aqua;
+} */
+
+/* class Selector  */
+/* .para{
+    background-color: blueviolet;
+} */
+
+/* id selector  */
+
+/* #bold{
+    background-color: yellow;
+} */
+
+
+/* Adjacent Sibling Selector */
+/* tilde use in this selector  */
+/* h1~p{
+    background-color: antiquewhite;
+} */
+
+/* Color applying method  */
+/* color Name */
+/* h1{
+    color: red;
+} */
+/* hex Code  */
+/* h1{
+    color: #15cf9dd8;
+} */
+/* rgb  */
+/* h1{
+    color: rgb(154, 241, 30);
+} */
+/* hsl  */
+/* h1{
+    color: hsl(10, 85%, 35%)
+} */
+/* 
+ h1{
+    background-color: red;
+    opacity: 0.9;
+ } */
+
+ 
+ /* h1{
+    background-color: rgba(231, 20, 146, 0.5); 
+ } */
+
+  /* h1{
+    background-color: hsla(20, 88%, 31%, 0.5); 
+ } */

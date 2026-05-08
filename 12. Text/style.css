@@ -1,0 +1,87 @@
+
+  /* margin: 0; */
+  /* padding: ; */
+
+/* h1{
+    font-size: 160px;
+} */
+
+/* /* h1{
+  font-family: "Chiron GoRound TC", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 1000;
+  font-style: normal;
+} */
+
+/* h6{
+  font-family: "Playwrite NO", cursive;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  text-transform: capitalize;
+  text-decoration: overline;
+
+} 
+a{
+    color: orange;
+    text-decoration: none;
+} */
+
+
+  /* background-color: yellow; */
+  /* line-height: 20px; */
+  /* word-spacing: 10px; */
+  /* letter-spacing: 30px; */
+  /* text-align: justify; */
+
+
+/* a{
+  text-decoration: none;
+}
+li{
+  text-align: right;
+} */
+ /* .set{
+  text-align: justify;
+ } */
+  /* img{
+    height: 100px;
+    width: 150px;
+    vertical-align: middle;
+  }
+  p{
+    
+  } */
+   /* h2{
+    text-shadow: 1px 0.5px 0.2px gray;
+   } */
+/* .para1:hover{
+  color: orange;
+} */
+
+/* a:link {
+color: deeppink;
+text-decoration: none;
+} */
+
+/* a:visited {
+color: black;
+} */
+
+/* a:hover {
+color: green;
+text-decoration: underline;
+}
+
+a:active{
+  color: red;
+  text-decoration: none;
+} */
+
+.row>td{
+  border: 1px solid black;
+}
+
+.row>td:hover{
+  background-color: purple;
+}

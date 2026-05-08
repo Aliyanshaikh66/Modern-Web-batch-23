@@ -1,0 +1,44 @@
+/* Parent  */
+/* *{
+    margin: 0;
+} */
+/* .parent{ */
+    /* height: 200px; */
+    /* width: 300px; */
+    /* background-color: aqua; */
+    /* margin-top: 50px; */
+    /* padding-top: 1px; */
+    /* margin-left: 40%; */
+
+/* } */
+/* 1st child  */
+/* .parent>h1{
+    background-color: green;
+    color: red;
+} */
+.main1{
+    display: flex;
+}
+
+.main{
+    /* margin-top: 100px; */
+    border-style: double;
+    /* border: 2px solid red; */
+    border-width: thick;
+    border-top-width: thick;
+    border-left-width: thick;
+    border-bottom-width: thick;
+    border-right-width: thick;
+    border-top-color: pink;
+    border-left-color: purple;
+    border-bottom-color: rgb(26, 194, 241);
+    border-right-color: rgb(98, 58, 5);
+    text-align: justify;
+    margin-left: 10px;
+    padding: 10px;
+    background-color: greenyellow;
+    /* overflow-y: scroll; */
+   height: 250px;
+   width: 350px;
+}
+
